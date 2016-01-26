@@ -1,0 +1,199 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:2:1-100:12
+	package
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml
+		INJECTED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:5:5-32
+	android:versionCode
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:4:5-31
+		INJECTED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml
+		INJECTED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:6:5-35
+uses-permission#android.permission.INTERNET
+ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:12:22-73
+uses-permission#android.permission.ACCESS_GPS
+ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:13:5-69
+	android:name
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:13:22-66
+uses-permission#android.permission.CAMERA
+ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:14:5-65
+	android:name
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:14:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:15:22-78
+uses-feature#0x00020000
+ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:21:5-78
+	android:glEsVersion
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:21:52-75
+uses-feature#android.hardware.camera
+ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:23:5-84
+	android:required
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:23:58-81
+	android:name
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.location
+ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:32:2-83
+	android:required
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:32:57-80
+	android:name
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:32:16-56
+uses-feature#android.hardware.sensor.accelerometer
+ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:35:2-95
+	android:required
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:35:69-92
+	android:name
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:35:16-68
+uses-feature#android.hardware.sensor.compass
+ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:38:2-89
+	android:required
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:38:63-86
+	android:name
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:38:16-62
+supports-screens
+ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:41:2-44:35
+	android:largeScreens
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:42:33-60
+	android:smallScreens
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:42:4-32
+	android:normalScreens
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:43:4-32
+	android:xlargeScreens
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:44:4-32
+	android:anyDensity
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:43:33-58
+uses-sdk
+ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:46:5-48:41
+MERGED from [:wikitudesdk:] /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/build/intermediates/exploded-aar/wikitudesdk/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:21.0.0] /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/AndroidManifest.xml:15:5-42
+	android:targetSdkVersion
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:48:9-38
+		INJECTED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml
+		INJECTED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:47:9-35
+		INJECTED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml
+		INJECTED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml
+application
+ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:52:5-98:19
+MERGED from [:wikitudesdk:] /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/build/intermediates/exploded-aar/wikitudesdk/AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:support-v4:21.0.0] /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/AndroidManifest.xml:16:5-19
+	android:label
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:55:9-41
+	android:allowBackup
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:53:9-35
+	android:icon
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:54:9-45
+	android:theme
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:56:9-40
+activity#com.wikitude.samples.MainActivity
+ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:57:9-65:20
+	android:label
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:59:13-45
+	android:name
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:58:13-61
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:60:13-64:29
+action#android.intent.action.MAIN
+ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:61:17-69
+	android:name
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:61:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:63:17-77
+	android:name
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:63:27-74
+activity#com.wikitude.samples.MainSamplesListActivity
+ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:68:9-80
+	android:name
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:68:19-78
+activity#com.wikitude.samples.SamplePoiDetailActivity
+ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:71:9-80
+	android:name
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:71:19-78
+activity#com.wikitude.samples.SampleCamActivity
+ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:74:9-136
+	android:configChanges
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:74:73-134
+	android:name
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:74:19-72
+activity#com.wikitude.samples.SampleCamContentFromNativeActivity
+ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:75:9-153
+	android:configChanges
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:75:90-151
+	android:name
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:75:19-89
+activity#com.wikitude.samples.SampleFrontCamActivity
+ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:76:9-141
+	android:configChanges
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:76:78-139
+	android:name
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:76:19-77
+activity#com.wikitude.samples.SamplePluginActivity
+ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:77:9-139
+	android:configChanges
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:77:76-137
+	android:name
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:77:19-75
+activity#com.wikitude.samples.FaceDetectionPluginActivity
+ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:78:9-146
+	android:configChanges
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:78:83-144
+	android:name
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:78:19-82
+activity#com.wikitude.samples.utils.urllauncher.ARchitectUrlLauncherActivity
+ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:81:9-83:62
+	android:label
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:83:13-59
+	android:name
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:82:13-95
+activity#com.wikitude.samples.utils.urllauncher.ARchitectUrlLauncherCamActivity
+ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:84:9-87:62
+	android:label
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:87:13-59
+	android:configChanges
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:86:13-59
+	android:name
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:85:13-98
+activity#com.wikitude.tools.activities.MediaPlayerActivity
+ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:90:3-96:14
+	android:screenOrientation
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:91:4-41
+	android:name
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:90:13-77
+intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:92:4-95:20
+action#android.intent.action.VIEW
+ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:93:5-57
+	android:name
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:93:13-54
+category#android.intent.category.DEFAULT
+ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:94:5-64
+	android:name
+		ADDED from /Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/src/main/AndroidManifest.xml:94:15-61

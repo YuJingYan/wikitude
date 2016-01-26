@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/wangyu/Downloads/WikitudeSDK_NativeAPI_Android_1_1_0-2/Examples/NativeSDKSampleApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/wangyu/Downloads/WikitudeSDK_NativeAPI_Android_1_1_0-2/Examples/NativeSDKSampleApp/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-3cd1f2dfa1319226834fa91912701b0b9e53719c.jar" />
+    </item>
+    <item
+        jar="/Users/wangyu/Downloads/WikitudeSDK_NativeAPI_Android_1_1_0-2/Examples/NativeSDKSampleApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/wangyu/Downloads/WikitudeSDK_NativeAPI_Android_1_1_0-2/Examples/NativeSDKSampleApp/app/build/intermediates/pre-dexed/debug/classes-a0d509b2bdcad574aae9fc8059c8e7e1331850f0.jar" />
+    </item>
+    <item
+        jar="/Users/wangyu/Downloads/WikitudeSDK_NativeAPI_Android_1_1_0-2/Examples/NativeSDKSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/wangyu/Downloads/WikitudeSDK_NativeAPI_Android_1_1_0-2/Examples/NativeSDKSampleApp/app/build/intermediates/pre-dexed/debug/classes-daa342f53073a0888df490d440cee9c0d69b8a7b.jar" />
+    </item>
+    <item
+        jar="/Users/wangyu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/wangyu/Downloads/WikitudeSDK_NativeAPI_Android_1_1_0-2/Examples/NativeSDKSampleApp/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-1208921ed9fea951109f0bcd2413ab3e83ae8257.jar" />
+    </item>
+    <item
+        jar="/Users/wangyu/Downloads/WikitudeSDK_NativeAPI_Android_1_1_0-2/Examples/NativeSDKSampleApp/app/build/intermediates/exploded-aar/wikitude-native-sdk/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3bf8605d5e0578939aab4a6b00e8e2ca0d925692">
+        <dex dex="/Users/wangyu/Downloads/WikitudeSDK_NativeAPI_Android_1_1_0-2/Examples/NativeSDKSampleApp/app/build/intermediates/pre-dexed/debug/classes-a7b416d7c73341bf3ef8d4f2c2186e334777a906.jar" />
+    </item>
+
+</items>

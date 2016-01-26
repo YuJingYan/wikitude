@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/gradle-2.8/caches/modules-2/files-2.1/com.google.zxing/core/3.2.0/e019d15a13a9786f881141d2df6654b8510bce8b/core-3.2.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e019d15a13a9786f881141d2df6654b8510bce8b">
+        <dex dex="/Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/build/intermediates/pre-dexed/debug/core-3.2.0-f178a38c9bd4132849c1032b484b506c6469f54a.jar" />
+    </item>
+    <item
+        jar="/Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/build/intermediates/pre-dexed/debug/classes-1accc651bea69040be78ff825c6659ff7cd2588a.jar" />
+    </item>
+    <item
+        jar="/Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/jars/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-621e1068dd37ecfad984f7c5e6df2d0da926bbd7.jar" />
+    </item>
+    <item
+        jar="/Users/wangyu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-75bfd13d3a9c78329e0e2298fd38955e1573871f.jar" />
+    </item>
+    <item
+        jar="/Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/build/intermediates/exploded-aar/wikitudesdk/jars/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="37832d8c5a8e311a0a7e9f3cf73266887476a89d">
+        <dex dex="/Users/wangyu/Downloads/WikitudeSDK_Android_5_0_0/Examples/SDKExamples/wikitude-sdk-samples/build/intermediates/pre-dexed/debug/classes-2ddbe2c6993ae8f1a1ce191caa6943813f7c07f2.jar" />
+    </item>
+
+</items>
